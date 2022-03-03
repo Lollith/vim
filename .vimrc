@@ -68,6 +68,11 @@ nnoremap <s-up> :resize +5<CR>
 
 nnoremap <s-down> :resize -5<CR>
 
+"--------------------------------------------------------------------
+"tab pour norminette
+set tabstop=4
+set shiftwidth=4
+
 
 "--------------------------------------------------------------------
 "bundle _installer pluggin
